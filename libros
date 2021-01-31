@@ -1,0 +1,30 @@
+[
+  {
+      "id": 1,
+      "categoria": "Terror",
+      "title": "Almas muertas",
+      "date": "21/02/2001",
+      "copyright": "Sin copyright"
+  },
+  {
+       "id": 2,
+      "categoria": "Romance",
+      "title": "Cien años de soledad",
+      "date": "17/02/2001",
+      "copyright": "Con copyright"
+  },
+  {
+      "id": 3,
+      "categoria": "Drama",
+      "title": "Viaje al fin de la noche",
+      "date": "06/02/2001",
+      "copyright": "Sin copyright"
+  },
+  {
+      "id": 4,
+      "categoria": "Historia",
+      "title": "El extranjero",
+      "date": "09/02/2001",
+      "copyright": "Con copyright"
+   }
+]
